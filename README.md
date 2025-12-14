@@ -313,3 +313,13 @@ Developed with assistance from Claude (Anthropic AI) as part of a TDD learning e
 ---
 
 **Note**: This project demonstrates modern full-stack development practices including authentication, database design, API development, and responsive UI design. All code has been reviewed and tested by the developer, with AI serving as a development accelerator and best practices guide.
+
+
+
+
+<img width="1304" height="739" alt="Screenshot 2025-12-14 171144" src="https://github.com/user-attachments/assets/d27f333d-ceb3-4ad9-9bce-d3a002eb97a3" />
+
+
+
+
+
